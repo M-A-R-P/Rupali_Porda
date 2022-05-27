@@ -18,7 +18,7 @@ Films often reflect the nation's culture. Movies started to entertain people hun
 It does what typical websites do. 
 It accepts requests from users and provides responses according to it. 
 <br>
-Example request: get movie details, write review, rate a movie etc. 
+Example request: get movie details, write review, rate a movie etc.<br>
 Example response: provide movie details, provide cast & crew info etc. 
 <br>
 Environment: This piece of software is supposed to run on the cloud.
