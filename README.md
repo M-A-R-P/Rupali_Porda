@@ -8,6 +8,9 @@ Films often reflect the nation's culture. Movies started to entertain people hun
 ![DFD for Admin](https://user-images.githubusercontent.com/65134453/170767224-c4c72bc6-407e-46be-a40f-1a2892489664.png)
 
 # DFD for End Users
+![DFD for End Users](https://user-images.githubusercontent.com/65134453/170767431-3d051aa1-25ef-4373-8a10-a5d7abc17474.png)
+
+# Class Diagram
 
 # Inputs-Outputs
 It does what typical websites do. 
